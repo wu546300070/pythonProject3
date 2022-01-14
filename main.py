@@ -12,3 +12,5 @@ if __name__ == '__main__':
     print_hi("您好")
     print_hi("hello world")
     print(math.cos(math.pi/3))
+    print(math.cos(math.pi/4))
+    print(math.cos(math.pi/5))
