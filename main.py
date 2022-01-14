@@ -1,3 +1,5 @@
+import math
+
 
 def print_hi(name):
     # 在下面的代码行中使用断点来调试脚本。
@@ -8,3 +10,5 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     print_hi("您好")
+    print_hi("hello world")
+    print(math.cos(math.pi/3))
